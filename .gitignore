@@ -1,0 +1,29 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Fichier de projet Visual Studio
+TransmissionImages.pyproj
+*.pyproj
+*.sln
+.vs/
+
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Fichiers générés / temporaires
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Divers
+.DS_Store
+Thumbs.db
